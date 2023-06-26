@@ -1,4 +1,4 @@
-# Jokers Rolex
+# Aplicativo completo de ordens de serviço
 Projeto de Java e SQL Server
 
 ![GitHub](https://img.shields.io/github/license/lluancunha/Agenda?style=plastic)
