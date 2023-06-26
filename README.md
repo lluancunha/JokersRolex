@@ -9,7 +9,6 @@ Luan Cunha de Farias
 
 
 #Print da tela inical
-![]()
 ![Print da tela](https://github.com/lluancunha/JokersRolex/blob/main/img/print3.png)
 
 #Tela de ordem de serviço
