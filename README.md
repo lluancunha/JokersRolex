@@ -2,7 +2,7 @@
 Projeto de Java e SQL Server
 
 ![GitHub](https://img.shields.io/github/license/lluancunha/Agenda?style=plastic)
-# Joker Rolex
+# Jokers Rolex
 
 ![]()
 ![Print da tela](https://github.com/lluancunha/JokersRolex/blob/main/img/print.png)
