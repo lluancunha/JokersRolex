@@ -1,11 +1,13 @@
 # Aplicativo completo de ordens de serviço
 Projeto de Java e SQL Server
 
-## Autor
-Luan Cunha de Farias
+
 
 ![GitHub](https://img.shields.io/github/license/lluancunha/Agenda?style=plastic)
 # Jokers Rolex
+
+## Autor
+Luan Cunha de Farias
 
 ![]()
 ![Print da tela](https://github.com/lluancunha/JokersRolex/blob/main/img/print2.png)
