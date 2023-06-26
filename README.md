@@ -2,11 +2,10 @@
 Projeto de Java e SQL Server
 
 
-
 ![GitHub](https://img.shields.io/github/license/lluancunha/Agenda?style=plastic)
 # Jokers Rolex
 
-## Autor
+# Autor
 Luan Cunha de Farias
 
 ![]()
