@@ -8,7 +8,7 @@ Projeto de Java e SQL Server
 ![Print da tela](https://github.com/lluancunha/JokersRolex/blob/main/img/print.png)
 
 
-## Instalação da Aplicativo
+## Instalação do Aplicativo
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua maquina local
 
 ### Pré requisitos:
