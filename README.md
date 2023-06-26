@@ -5,7 +5,7 @@ Projeto de Java e SQL Server
 # Jokers Rolex
 
 ![]()
-![Print da tela](https://github.com/lluancunha/JokersRolex/blob/main/img/print.png)
+![Print da tela](https://github.com/lluancunha/JokersRolex/blob/main/img/print2.png)
 
 
 ## Instalação do Aplicativo
